@@ -47,7 +47,7 @@ This arc maps directly to the three labs that produced it:
 
 ## Phase 1 — Real-world SLAM
 
-The physical labyrinth was assembled from rigid wall panels at the NU robotics lab. The exact geometry is documented in an engineering drawing with millimeter dimensions; this matters because the same geometry was later modeled as an STL for the Gazebo simulation in Phase 2.
+The physical labyrinth was assembled from rigid wall panels at the NU robotics lab. The exact geometry was modeled as an STL file for the Gazebo simulation in Phase 2.
 
 <table>
 <tr>
@@ -309,7 +309,3 @@ ROBT 502 group, Department of Robotics, Nazarbayev University:
 Beibars Ybraiakhyn, Didar Rakhimbay, Birzhan Zhunusbekov, Alim Daniyarov, Chidiadi Bethel Mba.
 
 Instructor: Zhanat Kappassov.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
