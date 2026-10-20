@@ -309,3 +309,8 @@ ROBT 502 group, Department of Robotics, Nazarbayev University:
 Beibars Ybraiakhyn, Didar Rakhimbay, Birzhan Zhunusbekov, Alim Daniyarov, Chidiadi Bethel Mba.
 
 Instructor: Zhanat Kappassov.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
